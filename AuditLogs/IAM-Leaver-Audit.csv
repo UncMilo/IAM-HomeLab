@@ -1,0 +1,4 @@
+"Timestamp","RequestId","Operator","Username","Action","Result","Details"
+"2026-11-16T00:33:56.8495850-08:00","IAM-003","CORP\Administrator","emma.wilson","Disable account","Success","AD account disabled"
+"2026-11-16T00:33:56.8933975-08:00","IAM-003","CORP\Administrator","emma.wilson","Revoke HR access","Success","GG_HR_Users"
+"2026-11-16T00:33:56.9102024-08:00","IAM-003","CORP\Administrator","emma.wilson","Move account","Success","OU=DisabledUsers,DC=corp,DC=sunrock,DC=test"

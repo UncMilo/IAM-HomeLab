@@ -1,0 +1,6 @@
+"Timestamp","RequestId","Operator","Username","Action","Result","Details"
+"2026-11-16T01:56:08.9747107-08:00","IAM-006","CORP\Administrator","sophie.brown","Create account","Success","Account created in disabled state"
+"2026-11-16T01:56:09.0000970-08:00","IAM-006","CORP\Administrator","sophie.brown","Assign access","Success","GG_Finance_Users"
+"2026-11-16T01:56:09.0199731-08:00","IAM-006","CORP\Administrator","sophie.brown","Enable account","Success","Account enabled after group assignment"
+"2026-11-16T01:56:09.0260715-08:00","IAM-006","CORP\Administrator","sophie.brown","Final verification","Success","Enabled account, OU, attributes and group verified"
+"2026-11-16T01:59:17.3487677-08:00","IAM-006","CORP\Administrator","sophie.brown","Joiner workflow","Failed","IAM request validation FAILED: Account already exists: sophie.brown"

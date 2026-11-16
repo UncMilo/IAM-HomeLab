@@ -1,0 +1,7 @@
+"Timestamp","RequestId","Operator","Username","Action","Result","Before","After"
+"2026-11-16T00:47:21.4696500-08:00","IAM-005","CORP\Administrator","daniel.carter","Transfer started","Started","Finance; Finance Analyst; OU=Finance,OU=Employees,DC=corp,DC=sunrock,DC=test","HR; HR Specialist; OU=HR,OU=Employees,DC=corp,DC=sunrock,DC=test"
+"2026-11-16T00:47:21.5335793-08:00","IAM-005","CORP\Administrator","daniel.carter","Revoke Finance access","Success","GG_Finance_Users","Removed"
+"2026-11-16T00:47:21.5537903-08:00","IAM-005","CORP\Administrator","daniel.carter","Grant HR access","Success","Not a member","GG_HR_Users"
+"2026-11-16T00:47:21.5735593-08:00","IAM-005","CORP\Administrator","daniel.carter","Update attributes","Success","Finance; Finance Analyst","HR; HR Specialist"
+"2026-11-16T00:47:21.5862033-08:00","IAM-005","CORP\Administrator","daniel.carter","Move OU","Success","OU=Finance,OU=Employees,DC=corp,DC=sunrock,DC=test","OU=HR,OU=Employees,DC=corp,DC=sunrock,DC=test"
+"2026-11-16T00:47:21.5916532-08:00","IAM-005","CORP\Administrator","daniel.carter","Final verification","Success","Finance role","HR role verified"

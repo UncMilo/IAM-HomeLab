@@ -1,0 +1,6 @@
+"Timestamp","RequestId","Operator","Username","Action","Result","Details"
+"2026-11-16T02:21:24.7614744-08:00","IAM-007","CORP\Administrator","sophie.brown","Revoke old access","Success","GG_Finance_Users"
+"2026-11-16T02:21:24.7822241-08:00","IAM-007","CORP\Administrator","sophie.brown","Grant new access","Success","GG_HR_Users"
+"2026-11-16T02:21:24.8021507-08:00","IAM-007","CORP\Administrator","sophie.brown","Update attributes","Success","Finance -> HR; HR Specialist"
+"2026-11-16T02:21:24.8148370-08:00","IAM-007","CORP\Administrator","sophie.brown","Move OU","Success","OU=HR,OU=Employees,DC=corp,DC=sunrock,DC=test"
+"2026-11-16T02:21:24.8197327-08:00","IAM-007","CORP\Administrator","sophie.brown","Final verification","Success","Attributes, OU and group membership verified"

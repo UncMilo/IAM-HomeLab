@@ -1,0 +1,3 @@
+"Timestamp","RequestId","Operator","Username","Action","Result","Details"
+"2026-11-16T00:41:07.3695389-08:00","IAM-004","CORP\Administrator","daniel.carter","Create account","Success","OU=Finance,OU=Employees,DC=corp,DC=sunrock,DC=test"
+"2026-11-16T00:41:07.3970119-08:00","IAM-004","CORP\Administrator","daniel.carter","Assign access","Success","GG_Finance_Users"

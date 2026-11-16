@@ -1,0 +1,5 @@
+"Timestamp","RequestId","Operator","Username","Action","Result","Details"
+"2026-11-16T02:42:03.6859065-08:00","IAM-008","CORP\Administrator","sophie.brown","Disable account","Success","AD account disabled"
+"2026-11-16T02:42:03.7038718-08:00","IAM-008","CORP\Administrator","sophie.brown","Revoke department access","Success","GG_HR_Users"
+"2026-11-16T02:42:03.7145121-08:00","IAM-008","CORP\Administrator","sophie.brown","Move account","Success","OU=DisabledUsers,DC=corp,DC=sunrock,DC=test"
+"2026-11-16T02:42:03.7180269-08:00","IAM-008","CORP\Administrator","sophie.brown","Final verification","Success","Account disabled, group removed, OU verified"
